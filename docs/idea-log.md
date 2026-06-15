@@ -55,7 +55,7 @@ Students find it hard to connect with other students in the same class who want 
 University students who want to study in a group or find project partners.
 
 **Current Alternative:**
-Students currently use WhatsApp group chats or Discord servers. However, these require someone to set them up manually and there is no automatic way to match students based on course or schedule.
+Students currently use LINE group chats or Discord servers. However, these require someone to set them up manually and there is no automatic way to match students based on course or schedule.
 
 **Proposed IT Solution:**
 A website where students can create a profile with their course and available study times. The website then matches them with other students who study the same subject and have a similar schedule.
