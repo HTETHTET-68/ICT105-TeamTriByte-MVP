@@ -17,14 +17,12 @@
 
 ### Evidence of Work
 - GitHub repository link: https://github.com/HTETHTET-68/ICT105-TeamTriByte-MVP
-- Screenshot: *(add screenshot of repository here)*
 - Files created:
   - `README.md`
   - `docs/team-profile.md`
   - `docs/idea-log.md`
   - `docs/problem-notes.md`
   - `docs/weekly-logbook.md`
-- Commit link: *(add commit link here)*
 
 ### Decision Made This Week
 The team agreed to move forward with HallPass as our main venture idea, as it directly addresses a real problem faced by international students and is realistic to build as a web application within the semester.
