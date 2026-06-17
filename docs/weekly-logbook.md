@@ -26,10 +26,11 @@
   - `docs/weekly-logbook.md`
 
 ### Decision Made This Week
-The team agreed to move forward with HallPass as our main venture idea, as it directly addresses a real problem faced by international students and is realistic to build as a web application within the semester.
+No final decision was made yet. The team logged three initial venture ideas, HallPass, CampusMarket, and StudyMatch, each with a defined problem area, target users, current alternatives, and a possible IT solution. These ideas were documented for further evaluation rather than committed to at this stage.
 
 ### Plan for Next Week
-In Lab 2, the team will conduct short interviews or surveys with international students to validate the HallPass idea. We will also finalize the main features of the website and begin creating simple wireframes for the key pages.
+In Lab 2, the team will expand the idea pool, score all opportunities using the NUF (New, Useful, Feasible) framework, and select the strongest idea to move forward with as our semester project.
+
 ## Lab 02: IT Opportunity Scanning
 
 ### What We Completed
@@ -72,7 +73,6 @@ This idea was rejected because it would require more complex features such as tr
 * GitHub issue screenshot:
 * <img width="1265" height="714" alt="Screenshot 2026-06-17 at 1 59 26 PM" src="https://github.com/user-attachments/assets/01bee27d-04b2-40a0-bf75-ced526f8fd40" />
 
-* Commit link: *(Insert GitHub commit URL here)*
 
 ### Plan for Lab 03
 
