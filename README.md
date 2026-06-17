@@ -22,32 +22,32 @@ TriByte
 New international students and first-year university students often struggle to find trustworthy information about dormitories, cafeterias, and campus life. Existing information is scattered across university websites, social media, and word-of-mouth sources, making it difficult for students to make informed decisions and adapt quickly.
 
 ## Target Users
-International students
-First-year university students
-Exchange students
-New students unfamiliar with campus life
+- International students
+- First-year university students
+- Exchange students
+- New students unfamiliar with campus life
 
 ## Selected IT Venture Direction
-HallPass – Student Reviews & Campus Survival Guide
+**HallPass – Student Reviews & Campus Survival Guide**
 
 A web-based platform that helps students settle into campus life by providing:
+- Student-written dormitory reviews and ratings
+- Cafeteria reviews and food recommendations
+- Campus survival guides
+- A platform for students to share experiences and advice
 
-Student-written dormitory reviews and ratings
-Cafeteria reviews and food recommendations
-Campus survival guides
-A platform for students to share experiences and advice
-Key Features
-Dorm Reviews
-Cafeteria Reviews
-Survival Guides
-Student Community Contributions
-Search and Rating System
+**Key Features**
+- Dorm Reviews
+- Cafeteria Reviews
+- Survival Guides
+- Student Community Contributions
+- Search and Rating System
 
 ## Technology Possibility
 - Web application interface
 - Dashboard
 - Cloud-based system for user data and review storage
-   
+
 ## Repository Structure
 - `docs/`: Project profiles, idea logs, weekly logbooks, and problem notes.
 - `prototype/`: Interface mockups, wireframes, and screen designs.
@@ -61,11 +61,10 @@ Search and Rating System
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
 | Lab 1 | Lab setup and idea log | Repository setup, team profile, initial three-idea logbook | In progress |
-| Lab 2 | | | |
+| Lab 2 | Opportunity scanning and NUF scoring | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project opportunity (HallPass) | Completed |
 
 ## Current Status
 In Lab 02, we reviewed six possible IT opportunities, scored them using the NUF (New, Useful, Feasible) framework, and selected one semester project idea.
-
 The selected project is HallPass – Student Reviews & Campus Survival Guide because it addresses a real student problem, provides practical value, and is feasible to develop as an MVP using standard web technologies.
 
 ## Next Step
