@@ -1,109 +1,86 @@
-# HallPass – Student Reviews & Campus Survival Guide
+# Selected Semester Project Opportunity
 
-## Selected Semester Project Opportunity
+## Selected Project Title
 
-### Selected Project Title
-
-**HallPass – Student Reviews & Campus Survival Guide**
-
----
+HallPass
 
 ## Target User
 
-International students, first-year university students, and exchange students who are new to campus and need reliable information about student life.
-
----
+International students who are starting university for the first time and need reliable information about campus life.
 
 ## Problem Statement
 
-International students and first-year students struggle to find trustworthy information about dormitories, cafeterias, and campus life when they first arrive at university. Information is often scattered across university websites, social media, and word-of-mouth sources, making it difficult to make informed decisions and adapt quickly.
-
----
+International students often struggle to find honest and up-to-date information about dormitories, cafeterias, campus facilities, and daily student life before and after arriving at university. Official university websites provide general information, but they may not reflect real student experiences. As a result, new students may feel unprepared and uncertain when making decisions about accommodation, food, and campus services.
 
 ## Current Alternative
 
-Users currently:
+Students currently rely on:
 
-* Ask friends, seniors, or classmates for recommendations
-* Search Google, Reddit, or social media groups
-* Use official university websites
-* Join student chat groups and forums
+* University websites
+* Google searches
+* Social media groups
+* Advice from friends and senior students
 
-These alternatives may provide incomplete, outdated, or inconsistent information.
-
----
+However, these sources are often scattered, outdated, or difficult to verify.
 
 ## Proposed IT Solution
 
-The team will develop **HallPass**, a web-based platform that allows students to:
+The team will develop **HallPass**, a web-based platform where students can:
 
-* Read and write dormitory reviews and ratings
-* Read and write cafeteria reviews and food recommendations
-* Access campus survival guides covering transportation, facilities, and student services
-* Share experiences and advice with future students
+* Read and write reviews about dormitories and cafeterias
+* View ratings and comments from other students
+* Access simple campus survival guides for new students
+* Find useful information about food, accommodation, and campus services in one place
 
----
+The platform will serve as a centralized source of student-generated information to help international students settle into university life more easily.
 
 ## Why This Opportunity Was Selected
 
-### NUF Scoring
+HallPass received the highest overall score in the team's NUF evaluation.
 
-| Criteria | Score | Reason                                                                                |
-| -------- | ----- | ------------------------------------------------------------------------------------- |
-| New      | 8/10  | Existing university websites rarely provide student-generated reviews and experiences |
-| Useful   | 10/10 | New students frequently need help finding housing, food, and campus information       |
-| Feasible | 9/10  | Core features can be developed using standard web technologies and simulated data     |
+| Idea                      | New | Useful | Feasible | Total |
+| ------------------------- | --- | ------ | -------- | ----- |
+| HallPass                  | 8   | 9      | 9        | 26    |
+| SmartStudy Planner        | 7   | 9      | 8        | 24    |
+| StudyMatch                | 8   | 8      | 7        | 23    |
+| CampusMarket              | 6   | 8      | 8        | 22    |
+| Campus Events Hub         | 6   | 7      | 9        | 22    |
+| ClassBuddy Notes Exchange | 5   | 8      | 8        | 21    |
 
-**Total Score:** 27/30
-
-The project aligns well with the team's skills and can be completed within the semester timeframe.
-
----
+HallPass was selected because it addresses a clear and specific problem experienced by international students. It is highly useful, technically achievable within the semester timeline, and can be validated through interviews and surveys. Compared to other ideas, it requires fewer complex features while still providing meaningful value to users.
 
 ## Why This Is Feasible Without IoT or Advanced Cybersecurity
 
-HallPass is a standard web application that does not require hardware devices, sensors, or advanced cybersecurity systems.
+The project is a standard web application and does not require any IoT devices, sensors, or hardware integration.
 
-The MVP can be built using:
+The MVP can be developed using common web technologies such as:
 
 * HTML
 * CSS
 * JavaScript
+* Simple database or cloud storage
 
-User interactions and reviews can be simulated through prototypes and mock data, making development achievable with available tools and knowledge.
-
----
+The system only requires basic user accounts, reviews, ratings, and information pages. No advanced cybersecurity features, complex authentication systems, or specialized infrastructure are necessary for the prototype stage.
 
 ## Possible MVP Type
 
-**HTML / CSS / JavaScript Prototype**
-
----
+Simple web app prototype
 
 ## Initial Validation Plan for Lab 03
 
-### Who Will the Team Ask?
+### Who will the team ask?
 
-* International students
-* First-year students
-* Exchange students
-* Current university students who recently completed their first year
+* International students currently studying at the university
+* Newly enrolled students
+* Senior international students who have experience living on campus
 
-### What Evidence Will the Team Collect?
+### What evidence will the team collect?
 
-* Survey responses
-* Interview feedback
-* Common challenges faced by students
-* Interest in using a review-based campus information platform
-* Feature preferences and suggestions
+* Survey responses about challenges faced when arriving at university
+* Interview feedback regarding dormitory and cafeteria information
+* Evidence showing how students currently find campus-related information
+* User interest in a review-based platform
 
-### What Question Must Be Answered First?
+### What question must be answered first?
 
-> Do international and first-year students experience enough difficulty finding reliable information about dormitories, cafeterias, and campus life to justify using a dedicated platform like HallPass?
-
----
-
-## Team Goal
-
-Help students make informed decisions about housing, food, and campus life through real student experiences and practical survival guides.
-
+Do international students have difficulty finding trustworthy and useful information about dormitories, cafeterias, and campus life, and would they use a student-generated review platform to solve this problem?
