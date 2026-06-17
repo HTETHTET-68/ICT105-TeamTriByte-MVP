@@ -66,3 +66,75 @@ A website where students can create a profile with their course and available st
 
 **Why This Is Suitable:**
 Many students want to study in groups but do not know how to find the right people. A website that automatically matches students by course and schedule saves time and makes it easier for students to connect and study together.
+
+## Idea 4 — SmartStudy Planner
+
+**Problem Area:**
+Students often forget assignment deadlines, quizzes, and exams. They also struggle to organize study schedules across multiple courses and manage their workload effectively.
+
+**Target Users:**
+University students.
+
+**Current Alternative:**
+Students use Google Calendar, paper planners, or reminder applications. However, they must manually enter deadlines and organize study schedules themselves.
+
+**Proposed IT Solution:**
+A web application that helps students manage assignments, exams, and study tasks in one place. The system can send reminders for upcoming deadlines and suggest study schedules based on course workload and due dates.
+
+**Possible Technology:**
+
+* Web application
+* Cloud-based database for courses and deadlines
+* Notification system
+* User authentication
+
+**Why This Is Suitable:**
+Students regularly manage multiple courses and deadlines. A centralized study planner can improve organization, reduce missed deadlines, and support better academic performance.
+
+## Idea 5 — ClassBuddy Notes Exchange
+
+**Problem Area:**
+Students may miss classes due to illness, emergencies, or schedule conflicts and often find it difficult to obtain lecture notes and study materials afterward.
+
+**Target Users:**
+University students.
+
+**Current Alternative:**
+Students usually ask classmates for notes or search through group chats and online platforms. These methods can be time-consuming and inconsistent.
+
+**Proposed IT Solution:**
+A web application where students can upload, share, and download lecture notes organized by course. Users can search for materials, rate resources, and contribute their own notes to help others.
+
+**Possible Technology:**
+
+* Web application
+* Cloud storage for documents
+* Database for courses and resources
+* User authentication system
+
+**Why This Is Suitable:**
+A centralized platform for note sharing improves collaboration among students and provides easier access to study resources when needed.
+
+## Idea 6 — Campus Events Hub
+
+**Problem Area:**
+Students often miss campus events, workshops, club activities, and career fairs because information is spread across multiple platforms such as emails, posters, and social media.
+
+**Target Users:**
+University students, student clubs, and university organizations.
+
+**Current Alternative:**
+Students rely on university emails, social media pages, and physical announcements. Event information can be difficult to find and track.
+
+**Proposed IT Solution:**
+A web application that serves as a central platform for campus events. Organizations can create and manage events, while students can browse activities, register for events, save favorites, and receive reminders.
+
+**Possible Technology:**
+
+* Web application
+* Cloud-based database
+* Event management system
+* Notification and reminder features
+
+**Why This Is Suitable:**
+A centralized event platform helps students stay informed about campus opportunities and encourages greater participation in university activities.
