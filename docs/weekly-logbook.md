@@ -1,4 +1,4 @@
-<img width="1265" height="714" alt="Screenshot 2026-06-17 at 1 59 26 PM" src="https://github.com/user-attachments/assets/85a94369-0f3a-4998-8fa2-1e0ed17cbe36" />
+
 # Weekly Venture Logbook
 
 ## Lab 1: Lab Setup and IT Venture Repository
