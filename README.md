@@ -19,13 +19,29 @@ TriByte
 | Yousel Zangmo | UX/UI Lead, Validation Lead | Design wireframes and interface screens, manage user research and survey evidence |
 
 ## Initial Problem Area
-Our team is evaluating friction areas around campus life information access, focusing on the challenges international students face when trying to find reliable reviews and practical guides upon arriving at university.
+New international students and first-year university students often struggle to find trustworthy information about dormitories, cafeterias, and campus life. Existing information is scattered across university websites, social media, and word-of-mouth sources, making it difficult for students to make informed decisions and adapt quickly.
 
 ## Target Users
-International university students, particularly those in their first semester who are unfamiliar with campus facilities, services, and daily life routines.
+International students
+First-year university students
+Exchange students
+New students unfamiliar with campus life
 
-## Initial IT Venture Direction
-We are targeting a lightweight and accessible web platform that allows students to share and browse peer reviews of campus dorms and cafeterias, supported by curated guides covering essential student life topics.
+## Selected IT Venture Direction
+HallPass – Student Reviews & Campus Survival Guide
+
+A web-based platform that helps students settle into campus life by providing:
+
+Student-written dormitory reviews and ratings
+Cafeteria reviews and food recommendations
+Campus survival guides
+A platform for students to share experiences and advice
+Key Features
+Dorm Reviews
+Cafeteria Reviews
+Survival Guides
+Student Community Contributions
+Search and Rating System
 
 ## Technology Possibility
 - Web application interface
@@ -48,7 +64,9 @@ We are targeting a lightweight and accessible web platform that allows students 
 | Lab 2 | | | |
 
 ## Current Status
-In Lab 1, our team successfully set up the project repository and established the folder structure following the required format. We assigned roles across product, technical, and UX areas, and documented three initial venture ideas using the problem-user-solution framework to begin our validation process.
+In Lab 02, we reviewed six possible IT opportunities, scored them using the NUF (New, Useful, Feasible) framework, and selected one semester project idea.
+
+The selected project is HallPass – Student Reviews & Campus Survival Guide because it addresses a real student problem, provides practical value, and is feasible to develop as an MVP using standard web technologies.
 
 ## Next Step
-In Lab 2, we will review our three ideas and select one main direction based on user feedback and feasibility. We will begin early user research by talking to international students and start planning the key features of our web platform.
+In Lab 03, we will prepare customer discovery questions and collect evidence from target users.
