@@ -1,4 +1,5 @@
-# IT startup MVP project for ICT105 Fundamental Technology Entrepreneurship
+# HallPass
+IT startup MVP project for ICT105 Fundamental Technology Entrepreneurship.
 
 ## Project Venture Workspace
 
@@ -58,43 +59,43 @@ A web-based platform that helps students settle into campus life by providing:
 - `pitch/`: Final presentation slides and pitch materials.
 
 ## Weekly Progress Log
-| Lab   | Main Activity                             | Output                                                                                                                           | Status    |
-| ----- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Lab 1 | Lab setup and idea log                    | Repository setup, team profile, initial three-idea logbook                                                                       | Completed |
-| Lab 2 | Opportunity scanning and NUF scoring      | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project (HallPass)                   | Completed |
-| Lab 3 | Customer discovery and problem validation | Target respondents defined, interview questions prepared, raw user evidence collected, assumption vs evidence analysis completed | Completed |
-
+| Lab | Main Activity | Output | Status |
+|---|---|---|---|
+| Lab 1 | Lab setup and idea log | Repository setup, team profile, initial three-idea logbook | Completed |
+| Lab 2 | Opportunity scanning and NUF scoring | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project HallPass | Completed |
+| Lab 3 | Customer discovery and problem validation | Target respondents defined, survey distributed, 20 responses collected, assumption vs evidence analysis completed | Completed |
+| Lab 4 | | | |
+| Lab 5 | | | |
+| Lab 6 | | | |
+| Lab 7 | | | |
+| Lab 8 | | | |
+| Lab 9 | | | |
+| Lab 10 | | | |
+| Lab 11 | | | |
+| Lab 12 | | | |
+| Lab 13 | | | |
+| Lab 14 | | | |
 
 ## Customer Problem Discovery Summary
-
-In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important. Through interviews and surveys, we validated that students face significant challenges in accessing reliable and centralized information about dormitories, cafeterias, and campus life. We also identified that users rely heavily on informal sources such as friends and social media, which leads to inconsistent and stressful decision-making.
-
+In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important. We distributed a survey via Google Forms and collected 20 responses from students at our university. Through this process, we validated that students face significant challenges in accessing reliable and centralized information about dormitories, cafeterias, and campus life. We also identified that users rely heavily on informal sources such as friends and social media, which leads to inconsistent and stressful decision-making.
 
 ## Target Respondents
-
-We interviewed and surveyed the following groups of users:
-
-* First-year university students who are new to campus life and frequently need guidance for dorms, food, and basic services
-* International and exchange students who experience additional challenges such as language barriers and unfamiliar systems
-* Students who depend on social media, group chats, and friends as their main sources of information
-* Students who have recently made decisions about dormitories or cafeterias and experienced either positive or negative outcomes
-
+We surveyed the following groups of users:
+- First-year university students who are new to campus life and frequently need guidance for dorms, food, and basic services
+- International and exchange students who experience additional challenges such as language barriers and unfamiliar systems
+- Students who depend on social media, group chats, and friends as their main sources of information
+- Students who have recently made decisions about dormitories or cafeterias and experienced either positive or negative outcomes
 
 ## Main Evidence Found
-
-* Information about dorms and cafeterias is **scattered across multiple sources**, making it difficult and time-consuming to find reliable answers
-* There is a strong **lack of a centralized and trusted platform** for student-generated reviews and campus information
-* Students **trust peer experiences more than official university websites**, especially for practical daily-life decisions
-* Poor or incomplete information leads to **real consequences such as bad dorm choices, poor food decisions, wasted time, and increased stress**
-
+- 14 out of 20 respondents are first-year, international, or exchange students and all rated difficulty finding campus information as 4 or 5 out of 5
+- 13 out of 20 spent more than 30 minutes searching for basic campus information when they first arrived
+- 8 out of 20 identified scattered information as their biggest problem — the most common single answer
+- Students currently work around the problem by asking friends, posting in LINE or WhatsApp groups, and searching on social media — none of which are reliable or written by real students
+- All international and exchange students flagged language as a major barrier and selected multilingual content as the most useful feature
+- 16 out of 20 respondents said they would use HallPass if it existed
 
 ## Updated Problem Statement
-
-University students, especially first-year and international students, struggle to make informed decisions about dormitories, cafeterias, and campus life because relevant information is scattered, outdated, and unreliable. As a result, students rely heavily on informal sources, which leads to confusion, wasted time, and poor living decisions during their early university experience.
-
+University students, especially first-year, international, and exchange students, struggle to make informed decisions about dormitories, cafeterias, and campus life because relevant information is scattered, outdated, and unreliable. As a result, students rely heavily on informal sources, which leads to confusion, wasted time, and poor living decisions during their early university experience.
 
 ## Decision for Next Step
-
 In Lab 04, we will refine the problem definition and user needs based on validated evidence. We will prioritize key pain points, identify the most critical user segments, and begin shaping the MVP solution features for HallPass.
-
-
