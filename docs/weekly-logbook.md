@@ -89,4 +89,43 @@ We will:
 The key question we want to answer is:
 
 > Do international and first-year students experience enough difficulty finding reliable information about dormitories, cafeterias, and campus life to justify using a dedicated platform like HallPass?
+# Weekly Venture Logbook
+
+## Lab 03: Customer Problem Discovery
+
+### What We Completed
+1.Defined target respondents and prepared customer discovery questions, then collected user evidence through interviews/surveys and recorded it in /docs/problem-notes.md, /docs/customer-questions.md, and /data/raw-responses.xlsx.
+2.Separated assumptions from evidence by comparing team beliefs with real user feedback and documented the analysis in /docs/assumption-evidence-table.md.
+3.Documented problem findings and updated all GitHub materials, including repeated pain points, validation signals, README, and /docs/weekly-logbook.md.
+
+### What We Learned About the Problem
+1. Users consistently face **difficulty accessing reliable and up-to-date information**, as details are often scattered across multiple sources, leading to confusion, repeated searching, and time loss.
+
+2. New and international students are the **most vulnerable group**, depending heavily on informal networks like friends, social media, and group chats instead of official university channels.
+
+3. These issues lead to **real negative outcomes such as poor accommodation or food decisions, repeated dependency on others for information, and ongoing stress**, highlighting the need for a centralized and trustworthy information platform.
+
+### What Evidence We Collected
+- Number of respondents/interviews: 15 students
+- Evidence file: data/raw-reponses.xlsx
+- Key repeated pattern: Students repeatedly reported difficulty finding accurate and updated campus information.
+### What We Changed Based on Evidence
+We shifted our focus from building a feature-heavy system to prioritizing a simple, centralized platform for reliable and up-to-date student information, since users mainly struggle with scattered and inconsistent sources.
+We revised our target users to emphasize first-year, international, and exchange students, as evidence showed they experience the highest confusion, dependency on informal channels, and decision stress.
+### Problems or Difficulties
+1.Creating effective customer discovery questions that were non-leading and focused on understanding the problem rather than promoting our solution.
+2.Collecting and organizing survey/interview data efficiently while ensuring that the responses could be used as valid evidence for problem validation.
+### Evidence of Work
+- GitHub repository link: https://github.com/HTETHTET-68/ICT105-TriByte-MVP.git
+- Customer questions file: docs/customer-question.md
+- Raw responses file: data/raw-reponses.xlsx
+- Assumption-evidence table: docs/assumption-evidence-table.md
+- Commit link: https://github.com/HTETHTET-68/ICT105-TriByte-MVP/commits/main/ 
+
+### Plan for Lab 04
+Define the primary customer segment (new university students).
+Create a detailed user persona based on survey findings.
+Develop user stories that describe how students will use the proposed solution to solve their information-search problems.
+Prioritize user needs and convert them into MVP requirements.
+
 
