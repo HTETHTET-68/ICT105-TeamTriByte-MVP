@@ -58,14 +58,43 @@ A web-based platform that helps students settle into campus life by providing:
 - `pitch/`: Final presentation slides and pitch materials.
 
 ## Weekly Progress Log
-| Lab | Main Activity | Output | Status |
-|---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository setup, team profile, initial three-idea logbook | Completed |
-| Lab 2 | Opportunity scanning and NUF scoring | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project opportunity (HallPass) | Completed |
+| Lab   | Main Activity                             | Output                                                                                                                           | Status    |
+| ----- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Lab 1 | Lab setup and idea log                    | Repository setup, team profile, initial three-idea logbook                                                                       | Completed |
+| Lab 2 | Opportunity scanning and NUF scoring      | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project (HallPass)                   | Completed |
+| Lab 3 | Customer discovery and problem validation | Target respondents defined, interview questions prepared, raw user evidence collected, assumption vs evidence analysis completed | Completed |
 
-## Current Status
-In Lab 02, we reviewed six possible IT opportunities, scored them using the NUF (New, Useful, Feasible) framework, and selected one semester project idea.
-The selected project is HallPass – Student Reviews & Campus Survival Guide because it addresses a real student problem, provides practical value, and is feasible to develop as an MVP using standard web technologies.
 
-## Next Step
-In Lab 03, we will prepare customer discovery questions and collect evidence from target users.
+## Customer Problem Discovery Summary
+
+In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important. Through interviews and surveys, we validated that students face significant challenges in accessing reliable and centralized information about dormitories, cafeterias, and campus life. We also identified that users rely heavily on informal sources such as friends and social media, which leads to inconsistent and stressful decision-making.
+
+
+## Target Respondents
+
+We interviewed and surveyed the following groups of users:
+
+* First-year university students who are new to campus life and frequently need guidance for dorms, food, and basic services
+* International and exchange students who experience additional challenges such as language barriers and unfamiliar systems
+* Students who depend on social media, group chats, and friends as their main sources of information
+* Students who have recently made decisions about dormitories or cafeterias and experienced either positive or negative outcomes
+
+
+## Main Evidence Found
+
+* Information about dorms and cafeterias is **scattered across multiple sources**, making it difficult and time-consuming to find reliable answers
+* There is a strong **lack of a centralized and trusted platform** for student-generated reviews and campus information
+* Students **trust peer experiences more than official university websites**, especially for practical daily-life decisions
+* Poor or incomplete information leads to **real consequences such as bad dorm choices, poor food decisions, wasted time, and increased stress**
+
+
+## Updated Problem Statement
+
+University students, especially first-year and international students, struggle to make informed decisions about dormitories, cafeterias, and campus life because relevant information is scattered, outdated, and unreliable. As a result, students rely heavily on informal sources, which leads to confusion, wasted time, and poor living decisions during their early university experience.
+
+
+## Decision for Next Step
+
+In Lab 04, we will refine the problem definition and user needs based on validated evidence. We will prioritize key pain points, identify the most critical user segments, and begin shaping the MVP solution features for HallPass.
+
+
