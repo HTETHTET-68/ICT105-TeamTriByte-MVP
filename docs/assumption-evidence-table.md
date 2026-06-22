@@ -1,6 +1,6 @@
 # Assumption-Evidence Table
 
-**Course:** ICT105 | **Team:** Lemon | **Based on:** 20 survey responses
+**Course:** ICT105 | **Team:** TriByte | **Based on:** 20 survey responses
 
 | No. | Team Assumption | Evidence Collected | Evidence Type | Strength | Decision |
 |---:|---|---|---|---|---|
